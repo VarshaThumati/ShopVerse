@@ -1,11 +1,30 @@
-# ShopVerse
-ShopVerse - Discover Your Shopping Universe!
+# 🛍️ ShopVerse – Discover Your Shopping Universe!
 
-I have deployed my application also. 
-Please visit the ShopVerse Website for exploring the shopping universe - https://varshathumati.github.io/ShopVerse/main.html
+Welcome to **ShopVerse**, a responsive and interactive product catalogue shopping website.
 
-Website:
-The website supports both Mobile and Desktop configurations. 
+🚀 **Live Demo:**  
+👉 [Click here to explore ShopVerse](https://varshathumati.github.io/ShopVerse/main.html)
+
+---
+
+## 🌐 Overview
+
+**ShopVerse** is a frontend-based shopping catalogue site built to provide a sleek, visually appealing, and mobile-friendly shopping experience. It displays a variety of products with filter functionality and responsive layout, giving users a taste of the modern online shopping universe.
+
+---
+
+## ✨ Features
+
+- ✅ **Responsive Layout** – Works seamlessly on desktop, tablet, and mobile devices
+- 🖼️ **Product Cards** – Stylish cards with images, names, prices, and short descriptions
+- 🔍 **Filtering Options** – Sort products by:
+  - Price: Low to High
+  - Price: High to Low
+  - Rating
+- 🖱️ **Hover Effects** – Interactive animations for product cards
+
+---
+## Website:
 
 <img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/70f6a02a-1f23-4686-bd60-978e6c17e393" />
 
